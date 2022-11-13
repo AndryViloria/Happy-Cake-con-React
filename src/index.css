@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Montserrat&family=Open+Sans&family=Permanent+Marker&family=Poppins:wght@300&family=Raleway:wght@100;300;400&family=Roboto&family=Rubik+Moonrocks&family=Splash&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto' sans-serif;
+}
